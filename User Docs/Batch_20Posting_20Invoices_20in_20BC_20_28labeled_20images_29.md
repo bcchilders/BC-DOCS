@@ -12,7 +12,7 @@
 - Fill in the posting dialog as needed. Clear the **No.** in the Sales Order area.
 - If there are posting errors, a blue message bar will appear. Click **Details** to view affected orders.
 - Use **Open Related Record** to navigate to and fix any problematic orders.
-- ![Figure 1] - pic1 ](./images/Img_pic1.png)
+- ![Figure 1](./images/Img_pic1.png)
 
 ## Printing or Emailing Invoices
 - From **Posted Sales Invoices**, apply filters such as:
