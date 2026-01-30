@@ -7,12 +7,20 @@
 ## Batch Posting Process
 - Search **Sales Orders** or navigate to the Sales Orders list page.
 - Apply filters: **Shipped not Invoiced**, **Released**, and **Order**.
+- - ![Figure 1](./images/img_pic1.png)
 - **Select All** after the list is filtered to the orders you want to post.
 - From the ribbon, choose **Post** → **Post Batch** (***NOT* Post and Send**).
+- - ![Figure 1](./images/img_pic2.png)
+- 
 - Fill in the posting dialog as needed. Clear the **No.** in the Sales Order area.
+- 
+- - ![Figure 1](./images/img_pic3.png)
 - If there are posting errors, a blue message bar will appear. Click **Details** to view affected orders.
+- - ![Figure 1](./images/img_pic4.png)
+- - ![Figure 1](./images/img_pic5.png)
+- 
 - Use **Open Related Record** to navigate to and fix any problematic orders.
-- ![Figure 1](./images/img_pic1.png)
+
 
 ## Printing or Emailing Invoices
 - From **Posted Sales Invoices**, apply filters such as:
@@ -22,8 +30,10 @@
   - **Invoicing Type = Manual**
   - **No. Printed = 0**
   - **Posting Date = Today**
+  - - ![Figure 1](./images/img_pic6.png)
 - Choose **Send**. This uses the Document Sending Profile on the customer record.
 - When multiple invoices are selected, a confirmation message appears.
+- - ![Figure 1](./images/img_pic7.png)
 
 ## Notes on Document Sending Profiles
 - Default profiles are commonly set to **Print** or **Email**.
