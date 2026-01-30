@@ -12,7 +12,7 @@
 - Fill in the posting dialog as needed. Clear the **No.** in the Sales Order area.
 - If there are posting errors, a blue message bar will appear. Click **Details** to view affected orders.
 - Use **Open Related Record** to navigate to and fix any problematic orders.
-- ![Figure 1] - pic1 ][Img_pic1]
+- ![Figure 1] - pic1 ](imsges/Img_pic1 "pic1"
 
 ## Printing or Emailing Invoices
 - From **Posted Sales Invoices**, apply filters such as:
@@ -38,4 +38,4 @@
 3. Email address on the **Sales Order**
 4. Customization: system will first check for **Department-level** email before Ship-to
 
-[Img_pic1]: ./images/img_pic1.png "pick1"
+
